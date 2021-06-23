@@ -2,6 +2,6 @@
 
 Requirements:
 
-Cmder \n
+Cmder
 Anaconda
 Atom
